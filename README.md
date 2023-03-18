@@ -24,7 +24,7 @@ Specifications:
 Wallets:
 ==================
 
-• [Windows](https://github.com/CreatorsCC/CreatorsCoin/releases/latest/download/CreatorsCoin-Windows.zip)
+• [Windows](https://github.com/CreatorsCC/CreatorsCoin/releases/latest/download/CreatorsCoin-Win.zip)
 
 • [Mac](https://github.com/CreatorsCC/CreatorsCoin/releases/latest/download/CreatorsCoin-Mac.zip)
 
